@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "name": "Suresh Mane",
+      "email": "suresh@gmail.com",
+      "gender": "male",
+      "dob": "1997-08-13",
+      "savings": 56000,
+      "address": "Pune",
+      "mobile": 4455768692,
+      "id": 101
+    },
+    {
+      "name": "vinayak kale",
+      "email": "vinyakale@gmail.com",
+      "gender": "male",
+      "savings": 54500,
+      "address": "Mumbai",
+      "mobile": 8903568692,
+      "id": 104
+    },
+    {
+      "name": "Shruti kale",
+      "email": "shrutikale@gmail.com",
+      "gender": "female",
+      "savings": 76000,
+      "address": "Kolhapur",
+      "mobile": 5658493758,
+      "id": 105
+    },
+    {
+      "name": "Sangita Rathod",
+      "email": "sangita@yahoo.com",
+      "gender": "female",
+      "savings": 42000,
+      "address": "Nanded",
+      "mobile": 7689578675,
+      "id": 106
+    },
+    {
+      "name": "Subham bhosale",
+      "email": "subh@gmail.com",
+      "gender": "male",
+      "savings": 50000,
+      "address": "Hingoli",
+      "mobile": 7867576895,
+      "id": 108
+    },
+    {
+      "name": "Sima Vaghmare",
+      "email": "sangita@yahoo.com",
+      "gender": "female",
+      "savings": 30000,
+      "address": "Panvel",
+      "mobile": 7689578675,
+      "id": 109
+    },
+    {
+      "name": "Vinayak Sahay",
+      "email": "sangita@yahoo.com",
+      "gender": "male",
+      "savings": 100000,
+      "address": "Thane",
+      "mobile": 7689578675,
+      "id": 112
+    },
+    {
+      "name": "Pranita kumbar",
+      "email": "sangita@yahoo.com",
+      "gender": "female",
+      "dob": "1993-06-09",
+      "savings": 86000,
+      "address": "Pune",
+      "mobile": 7689578675,
+      "id": 113
+    },
+    {
+      "name": "Pratik Mane",
+      "email": "pra@gmail.com",
+      "gender": "male",
+      "dob": "1995-11-09",
+      "savings": 80000,
+      "address": "Thane",
+      "mobile": 5674839587,
+      "id": 114
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "statement": "Amount 16000 is transfered from Vinayak Sahay to Subham bhosale"
+    },
+    {
+      "statement": "Amount 26000 is transfered from Subham bhosale to Shruti kale",
+      "id": 2
+    }
+  ]
+}
